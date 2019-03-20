@@ -9,3 +9,4 @@ for i in range(len(cue)):
             if bribes_i>2:
                 print("Too chaotic")
 print(bribes)
+print('hello')
